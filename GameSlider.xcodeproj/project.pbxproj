@@ -11,6 +11,7 @@
 		65BF967D2B3853A300E283FE /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65BF967C2B3853A300E283FE /* ContentView.swift */; };
 		65BF967F2B3853A400E283FE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 65BF967E2B3853A400E283FE /* Assets.xcassets */; };
 		65BF96822B3853A400E283FE /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 65BF96812B3853A400E283FE /* Preview Assets.xcassets */; };
+		65BF96A32B38BEEC00E283FE /* SliderRepresentative.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65BF96A22B38BEEC00E283FE /* SliderRepresentative.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		65BF967C2B3853A300E283FE /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		65BF967E2B3853A400E283FE /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		65BF96812B3853A400E283FE /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		65BF96A22B38BEEC00E283FE /* SliderRepresentative.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SliderRepresentative.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				65BF967A2B3853A300E283FE /* GameSliderApp.swift */,
 				65BF967C2B3853A300E283FE /* ContentView.swift */,
+				65BF96A22B38BEEC00E283FE /* SliderRepresentative.swift */,
 				65BF967E2B3853A400E283FE /* Assets.xcassets */,
 				65BF96802B3853A400E283FE /* Preview Content */,
 			);
@@ -139,6 +142,7 @@
 			files = (
 				65BF967D2B3853A300E283FE /* ContentView.swift in Sources */,
 				65BF967B2B3853A300E283FE /* GameSliderApp.swift in Sources */,
+				65BF96A32B38BEEC00E283FE /* SliderRepresentative.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
